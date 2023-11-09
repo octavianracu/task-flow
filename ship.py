@@ -22,9 +22,10 @@ while True:
     option = input(">>>: ")
 
     if option == "a":
-        small_ship -= 1
+        big_ship -= 1
     elif option == "d":
-        small_ship += 1
+        big_ship += 1
     elif option == "x":
         print("Game over")
+        system ("cls")
         break
