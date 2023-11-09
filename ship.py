@@ -1,7 +1,6 @@
 from os import system
 
 option = ""
-small_ship = 5
 big_ship = 5
 
 
