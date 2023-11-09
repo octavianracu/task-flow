@@ -25,6 +25,6 @@ while True:
     elif option == "d":
         big_ship += 1
     elif option == "x":
-        print("Game over")
         system ("cls")
+        print("Game over")
         break
